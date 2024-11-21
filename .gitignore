@@ -1,0 +1,6 @@
+*~
+*.tar
+**/rootfs*
+.vscode
+.idea
+bin
